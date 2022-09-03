@@ -3,3 +3,4 @@ frontend/dist
 frontend/node_modules
 .vscode/
 .idea/
+package.json.md5
